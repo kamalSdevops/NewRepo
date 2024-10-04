@@ -1,1 +1,1 @@
-test
+[![Build Status](https://dev.azure.com/kamal-org1/SchoolManagementSystem/_apis/build/status%2FkamalSdevops.NewRepo%20(7)?branchName=master)](https://dev.azure.com/kamal-org1/SchoolManagementSystem/_build/latest?definitionId=7&branchName=master)
